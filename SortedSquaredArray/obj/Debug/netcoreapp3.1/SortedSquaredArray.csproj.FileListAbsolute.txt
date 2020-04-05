@@ -1,0 +1,14 @@
+C:\Files\C# Projects\SortedSquaredArraySolution\SortedSquaredArray\bin\Debug\netcoreapp3.1\SortedSquaredArray.exe
+C:\Files\C# Projects\SortedSquaredArraySolution\SortedSquaredArray\bin\Debug\netcoreapp3.1\SortedSquaredArray.deps.json
+C:\Files\C# Projects\SortedSquaredArraySolution\SortedSquaredArray\bin\Debug\netcoreapp3.1\SortedSquaredArray.runtimeconfig.json
+C:\Files\C# Projects\SortedSquaredArraySolution\SortedSquaredArray\bin\Debug\netcoreapp3.1\SortedSquaredArray.runtimeconfig.dev.json
+C:\Files\C# Projects\SortedSquaredArraySolution\SortedSquaredArray\bin\Debug\netcoreapp3.1\SortedSquaredArray.dll
+C:\Files\C# Projects\SortedSquaredArraySolution\SortedSquaredArray\bin\Debug\netcoreapp3.1\SortedSquaredArray.pdb
+C:\Files\C# Projects\SortedSquaredArraySolution\SortedSquaredArray\bin\Debug\netcoreapp3.1\Khud0.dll
+C:\Files\C# Projects\SortedSquaredArraySolution\SortedSquaredArray\bin\Debug\netcoreapp3.1\Khud0.pdb
+C:\Files\C# Projects\SortedSquaredArraySolution\SortedSquaredArray\obj\Debug\netcoreapp3.1\SortedSquaredArray.csprojAssemblyReference.cache
+C:\Files\C# Projects\SortedSquaredArraySolution\SortedSquaredArray\obj\Debug\netcoreapp3.1\SortedSquaredArray.AssemblyInfoInputs.cache
+C:\Files\C# Projects\SortedSquaredArraySolution\SortedSquaredArray\obj\Debug\netcoreapp3.1\SortedSquaredArray.AssemblyInfo.cs
+C:\Files\C# Projects\SortedSquaredArraySolution\SortedSquaredArray\obj\Debug\netcoreapp3.1\SortedSquaredArray.csproj.CopyComplete
+C:\Files\C# Projects\SortedSquaredArraySolution\SortedSquaredArray\obj\Debug\netcoreapp3.1\SortedSquaredArray.dll
+C:\Files\C# Projects\SortedSquaredArraySolution\SortedSquaredArray\obj\Debug\netcoreapp3.1\SortedSquaredArray.pdb
